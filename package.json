@@ -1,0 +1,32 @@
+{
+  "name": "quiz-app-react",
+  "version": "1.0.0",
+  "description": "quiz-app\r ![Ekran görüntüsü 2023-04-10 161109](https://user-images.githubusercontent.com/54941922/230907647-9705bbaf-a077-4fe2-ac02-6e3108be905c.png)\r ![Ekran görüntüsü 2023-04-10 161145](https://user-images.githubusercontent.com/54941922/230907650-53ae573e-59c8-44aa-8fcb-d8f628fb19c7.png)",
+  "main": "quiz.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
