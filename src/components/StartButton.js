@@ -8,8 +8,8 @@ const StartButton = () => {
     const context = useContext(AppContext);
 
     return (
-        <div class="btn_start">
-            <button class="btn btn-warning btn-lg" onClick={() => context.setState({...context.state, active : true})}>Start Quiz</button>
+        <div className="btn_start">
+            <button className="btn btn-warning btn-lg" onClick={() => context.setState({...context.state, active : true})}>Start Quiz</button>
         </div>
     )
 }

@@ -15,3 +15,4 @@ let sorular = [
     new Soru("4-Hangisi javascript paket yönetim uygulamasıdır?", {a: "react", b: "angular", c: "vuejs", d: "asp.net"}, "d")
 ];
 
+export default sorular;
